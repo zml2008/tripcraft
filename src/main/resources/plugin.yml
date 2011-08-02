@@ -1,0 +1,9 @@
+author: zml2008
+database: false
+description: Based on a bug by SpaceManiac, causes a malformed EntityEquipment packet
+  to be sent, leading to very trippy effects.
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: com.zml.tripcraft.TripCraftPlugin
+name: TripCraft
+startup: startup
+version: ${project.version}
